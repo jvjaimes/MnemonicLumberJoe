@@ -1,0 +1,107 @@
+body {
+  font-family: brandon-grotesque, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  background-color: white;
+  text-align: center;
+}
+
+.top {
+  background-color: #393e46;
+  text-align: center;
+}
+.top1 {
+  color: #3282b8;
+  font-size: 2.1rem;
+  font-family: 'Sacramento', cursive ;
+  margin-top: 0;
+  margin: 0 auto 0 auto;
+}
+
+
+.btop {
+  width: 40%;
+  margin: 0px auto 0px auto;
+  line-height: 2;
+}
+
+.beard {
+  width: 8%;
+  float: left;
+  margin-right: 1px
+}
+
+.middle {
+  background-color: #eaf6f6;
+  padding-top: 20px;
+}
+h1 {
+  color: #66BFBF;
+}
+.beard1 {
+  width: 15%;
+  padding-top: 50px;
+}
+h2 {
+  color: #66BFBF;
+  margin-bottom: 70px;
+}
+.mimg {
+  width: 25%;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+}
+
+.b1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+h3 {
+  text-align: left;
+  color: #66BFBF;
+}
+h3 {
+  text-align: center;
+  color: #66BFBF;
+}
+.d1a {
+  margin: 100px auto 100px auto;
+}
+p {
+  text-align: left;
+
+}
+.p1 {
+  width: 50%;
+  margin: 10px auto 10px auto;
+  line-height: 2;
+}
+.h2a {
+  margin: 10px auto 10px auto;
+}
+.skill_pic {
+  width: 25%;
+  float: left;
+  margin-right: 20px
+}
+
+
+.skill_pic1 {
+  width: 25%;
+  float: right;
+  margin-right: 1px
+}
